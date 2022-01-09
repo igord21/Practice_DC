@@ -41,19 +41,23 @@
 
 
 ### Этапы работы над проектом  
-....
+1. Исследование структуры данных
+2. Преобразование данных
+3. Исследование зависимостей в данных
+4. Очистка данных
 
 :arrow_up:[к оглавлению](https://github.com/igord21/task-9.1/blob/main/project_1/README.md#Оглавление)
 
 
 ### Результаты:  
-....
+Ноутбук-шаблон_Project_1.ipynb загружен на GitHub (https://github.com/igord21/task-9.1/blob/main/project_1/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_Project_1.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/igord21/task-9.1/blob/main/project_1/README.md#Оглавление)
 
 
 ### Выводы:  
-....
+Был завершили свой первый data science проект.
+Испытал на себе основные этапы работы с данными на примере датасета о вакансиях и теперь знаю, как важно уметь правильно работать с данными
 
 :arrow_up:[к оглавлению](https://github.com/igord21/task-9.1/blob/main/project_1/README.md#Оглавление)
 
