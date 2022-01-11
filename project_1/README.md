@@ -1,4 +1,4 @@
-# Проект 0.  Угадай число
+# Проект 0.  Анализ вакансий из HeadHunter
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/igord21/task-9.1/blob/main/project_1/README.md#описание-проекта)  
