@@ -54,7 +54,7 @@
 
 
 ### Результаты:  
-Ноутбук-шаблон_Project_1.ipynb загружен на GitHub (https://github.com/igord21/task-9.1/blob/main/project_1/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_Project_1.ipynb)
+Ноутбук-шаблон_Project_1.ipynb загружен на GitHub (https://github.com/igord21/task-9.1/blob/main/project_1/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_Project_1.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/igord21/task-9.1/blob/main/project_1/README.md#Оглавление)
 
