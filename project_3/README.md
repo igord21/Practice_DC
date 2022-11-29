@@ -1,18 +1,18 @@
 # Проект 3. Построение модели, которая предсказывает рейтинг отеля
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/igord21/task-9.1/blob/main/project_3/README.md#описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/igord21/task-9.1/blob/main/project_3/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/igord21/task-9.1/blob/main/project_3/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/igord21/task-9.1/blob/main/project_3/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/igord21/task-9.1/blob/main/project_3/README.md#Результаты)    
-[6. Выводы](https://github.com/igord21/task-9.1/blob/main/project_3/README.md#Выводы) 
+[1. Описание проекта](https://github.com/igord21/Practice_DC/blob/main/project_3/README.md#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/igord21/Practice_DC/blob/main/project_3/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Practice_DC/task-9.1/blob/main/project_3/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Practice_DC/task-9.1/blob/main/project_3/README.md#Этапы-работы-над-проектом)  
+[5. Результаты](https://github.com/igord21/Practice_DC/blob/main/project_3/README.md#Результаты)    
+[6. Выводы](https://github.com/igord21/Practice_DC/blob/main/project_3/README.md#Выводы) 
 
 ### Описание проекта    
 
 В этом проекте попробуем решить настоящий кейс и создадим первую модель, использующую алгоритмы машинного обучения.
 
-:arrow_up:[к оглавлению](https://github.com/igord21/task-9.1/blob/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/igord21/Practice_DC/blob/main/project_3/README.md#Оглавление)
 
 ### КАКОЙ КЕЙС РЕШАЕМ?
 
@@ -37,7 +37,7 @@
 В этом модуле вы будете работать с датасетом, в котором содержатся сведения о 515 000 отзывов на отели Европы. Модель, которую будем обучать, 
 должна предсказывать рейтинг отеля по данным сайта Booking на основе имеющихся в датасете данных. Изученные нами навыки разведывательного анализа помогут улучшить модель.
 
-:arrow_up:[к оглавлению](https://github.com/igord21/task-9.1/blob/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/igord21/Practice_DC/blob/main/project_3/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -46,19 +46,19 @@
 3. Исследование зависимостей в данных
 4. Очистка данных
 
-:arrow_up:[к оглавлению](https://github.com/igord21/task-9.1/blob/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/igord21/Practice_DC/blob/main/project_3/README.md#Оглавление)
 
 
 ### Результаты:  
-[project-3-eda-baseline-v1.ipynb загружен на GitHub](https://github.com/igord21/task-9.1/blob/main/project_3/project-3-eda-baseline-v1.ipynb)
+[project-3-eda-baseline-v1.ipynb загружен на GitHub](https://github.com/igord21/Practice_DC/blob/main/project_3/project-3-eda-baseline-v1.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/igord21/task-9.1/blob/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/igord21/Practice_DC/blob/main/project_3/README.md#Оглавление)
 
 
 ### Выводы:  
 Создали свой первый кейс по машинному обучению: самостоятельно очистили довольно сильно загрязнённый датасет, извлекли из него несколько новых признаков и подготовили данные для обучения модели. 
 
-:arrow_up:[к оглавлению](https://github.com/igord21/task-9.1/blob/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/igord21/Practice_DC/blob/main/project_3/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
