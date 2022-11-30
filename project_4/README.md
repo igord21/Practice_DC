@@ -1,4 +1,4 @@
-# Проект 4. Будет основана на соревновании Kaggle: Predicting a Biological Response (Прогнозирование биологического ответа)
+# Проект 4. Будет основан на соревновании Kaggle: Predicting a Biological Response (Прогнозирование биологического ответа). Оптимизация гиперпараметров.
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/igord21/Practice_DC/blob/main/project_4/README.md#описание-проекта)  
