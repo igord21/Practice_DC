@@ -1,18 +1,18 @@
 # Проект 4. Будет основан на соревновании Kaggle: Predicting a Biological Response (Прогнозирование биологического ответа). Оптимизация гиперпараметров.
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/igord21/Practice_DC/blob/main/project_4/README.md#описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/igord21/Practice_DC/blob/main/project_4/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/igord21/Practice_DC/blob/main/project_4/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/igord21/Practice_DC/blob/main/project_4/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/igord21/Practice_DC/blob/main/project_4/README.md#Результаты)    
-[6. Выводы](https://github.com/igord21/Practice_DC/blob/main/project_4/README.md#Выводы) 
+[1. Описание проекта](https://github.com/igord21/Practice_DC/blob/main/task_4/README.md#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/igord21/Practice_DC/blob/main/task_4/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/igord21/Practice_DC/blob/main/task_4/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/igord21/Practice_DC/blob/main/task_4/README.md#Этапы-работы-над-проектом)  
+[5. Результаты](https://github.com/igord21/Practice_DC/blob/main/task_4/README.md#Результаты)    
+[6. Выводы](https://github.com/igord21/Practice_DC/blob/main/task_4/README.md#Выводы) 
 
 ### Описание проекта    
 
 Необходимо предсказать биологический ответ молекул (столбец 'Activity') по их химическому составу (столбцы D1-D1776).
 
-:arrow_up:[к оглавлению](https://github.com/igord21/Practice_DC/blob/main/project_4/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/igord21/Practice_DC/blob/main/task_4/README.md#Оглавление)
 
 ### КАКОЙ КЕЙС РЕШАЕМ?
 
@@ -35,7 +35,7 @@
 
 В этом модуле вы будете работать с датасетом, в котором содержатся химический состав молекул (столбцы D1-D1776) и биологический ответ молекул (столбец 'Activity') Модель, которую будем обучать, должна предсказывать биологический ответ молекул.
 
-:arrow_up:[к оглавлению](https://github.com/igord21/Practice_DC/blob/main/project_4/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/igord21/Practice_DC/blob/main/task_4/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -45,13 +45,13 @@
 4. Продвинутая оптимизация: методом Hyperopt
 5. Продвинутая оптимизация: методом Optuna
 
-:arrow_up:[к оглавлению](https://github.com/igord21/Practice_DC/blob/main/project_4/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/igord21/Practice_DC/blob/main/task_4/README.md#Оглавление)
 
 
 ### Выводы:  
 Рассмотрели разнличные модели по подбору гиперпараметров и сделали вывод о каждом методе. 
 
-:arrow_up:[к оглавлению](https://github.com/igord21/Practice_DC/blob/main/project_4/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/igord21/Practice_DC/blob/main/task_4/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
