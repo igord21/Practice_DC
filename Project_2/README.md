@@ -1,12 +1,11 @@
 # Проект 2. Работа с базой данных из Python
 
 ## Оглавление
-[1. Описание проекта](https://github.com/igord21/Practice_DC/blob/main/Project_2/README.md#описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/igord21/Practice_DC/blob/main/Project_2/README.md#Какой-кейс-решаем)  
+[1. Описание проекта](https://github.com/igord21/Practice_DC/blob/main/Project_2/README.md#Описание-проекта)  
+[2. Этапы работы над проектом?](https://github.com/igord21/Practice_DC/blob/main/Project_2/README.md#Этапы-работы-над-проектом)  
 [3. Краткая информация о данных](https://github.com/igord21/Practice_DC/blob/main/Project_2/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/igord21/Practice_DC/blob/main/Project_2/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/igord21/Practice_DC/blob/main/Project_2/README.md#Результаты)    
-[6. Выводы](https://github.com/igord21/Practice_DC/blob/main/Project_2/README.md#Выводы) 
+[4. Результаты](https://github.com/igord21/Practice_DC/blob/main/Project_2/README.md#Результаты)    
+[5. Выводы](https://github.com/igord21/Practice_DC/blob/main/Project_2/README.md#Выводы) 
 
 ## Описание проекта
 Представьте, что вы устроились на работу в кадровое агентство, которое подбирает вакансии для IT-специалистов. Ваш первый проект — создание модели машинного обучения, которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist. Сначала вам необходимо понять, что из себя представляют данные и насколько они соответствуют целям проекта. 
