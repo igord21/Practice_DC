@@ -13,7 +13,6 @@ From the [SkillFactory Data Science course](http://scillfactory.ru/data-scientis
 ## Задачи
 
 * [Задача 1. Прогнозирование биологического ответа (HW-3)](https://github.com/igord21/Practice_DC/tree/main/task_4)
-* [Задача 2. Реализация алгоритма координатного спуска и Стохастического градиентного спуска](https://github.com/igord21/Practice_DC/tree/main/task_4)
-* [Задача 2. Реализация алгоритма координатного спуска и Стохастического градиентного спуска](/task_6_optimization)
+* [Задача 2. Реализация алгоритма координатного и стохастического градиентного спуска](/task_6_optimization)
 
 ## Ссылка на резюме
