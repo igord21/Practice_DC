@@ -9,6 +9,7 @@ From the [SkillFactory Data Science course](http://scillfactory.ru/data-scientis
 * [Проект-2. Анализ вакансий из HeadHunter. Выполнение SQL-запросов к БД](https://github.com/igord21/Practice_DC/tree/main/Project_2) 
 * [Проект 3. Predict hotel rating according to Booking website](https://github.com/igord21/Practice_DC/tree/main/Project_3)
 * [Проект 4. Задача классификации ](https://github.com/igord21/Practice_DC/tree/main/Project_4-Classification)
+* [Проект 5. Задача классификации](https://github.com/igord21/Practice_DC/tree/main/Project_5-The_regression_task)
 
 ## Задачи
 
