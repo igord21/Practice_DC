@@ -10,6 +10,7 @@ From the [SkillFactory Data Science course](http://scillfactory.ru/data-scientis
 * [Проект 3. Predict hotel rating according to Booking website](https://github.com/igord21/Practice_DC/tree/main/Project_3)
 * [Проект 4. Задача классификации ](https://github.com/igord21/Practice_DC/tree/main/Project_4-Classification)
 * [Проект 5. Задача классификации](https://github.com/igord21/Practice_DC/tree/main/Project_5-The_regression_task)
+* [Проект 6. Сегментирование клиентов онлайн-магазина подарков](https://github.com/igord21/Practice_DC/tree/main/Project_6-CustomerSegmentation)
 
 ## Задачи
 
