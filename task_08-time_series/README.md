@@ -22,7 +22,7 @@
 :arrow_up: [к оглавлению](./README.md#Оглавление)
 
 ### 3. Краткая информация о данных
-[Датасет](./ghana_gdp.zip) предоставлен платформой SkillFactory. Временной ряд ВВП Ганы.
+[Датасет](https://lms.skillfactory.ru/assets/courseware/v1/cf3fb9ca311981f5cc6b6f0a40621388/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ghana_gdp.zip) предоставлен платформой SkillFactory. Временной ряд ВВП Ганы.
  
 :arrow_up: [к оглавлению](./README.md#Оглавление)
 
