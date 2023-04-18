@@ -17,5 +17,6 @@ From the [SkillFactory Data Science course](http://scillfactory.ru/data-scientis
 * [Задача 1. Прогнозирование биологического ответа (HW-3)](https://github.com/igord21/Practice_DC/tree/main/task_4)
 * [Задача 2. Реализация алгоритма координатного и стохастического градиентного спуска](/task_6_optimization)
 * [Задача 3. Наивный байесовский классификатор: практика](/task_07-naive_bayes_classif)
+* [Задача 4. Исследование временного ряда: практика](/task_08-time_series)
 
 ## Ссылка на резюме
