@@ -13,6 +13,7 @@ From the [SkillFactory Data Science course](http://scillfactory.ru/data-scientis
 * [Проект 6. Сегментирование клиентов онлайн-магазина подарков](https://github.com/igord21/Practice_DC/tree/main/Project_6-CustomerSegmentation)
 * [Проект 7. Итоговый проект](https://github.com/igord21/Practice_DC/tree/main/The_final_project/)
 
+
 ## Задачи
 
 * [Задача 1. Прогнозирование биологического ответа (HW-3)](https://github.com/igord21/Practice_DC/tree/main/task_4)
