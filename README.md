@@ -11,7 +11,7 @@ From the [SkillFactory Data Science course](http://scillfactory.ru/data-scientis
 * [Проект 4. Задача классификации ](https://github.com/igord21/Practice_DC/tree/main/Project_4-Classification)
 * [Проект 5. Задача классификации](https://github.com/igord21/Practice_DC/tree/main/Project_5-The_regression_task)
 * [Проект 6. Сегментирование клиентов онлайн-магазина подарков](https://github.com/igord21/Practice_DC/tree/main/Project_6-CustomerSegmentation)
-* [Проект 7. Итоговый проект](https://github.com/igord21/Practice_DC/tree/main/The_final_project/)
+* [Проект 7. Итоговый проект](https://github.com/igord21/Practice_DC/tree/master/Project_6-The_final_project)
 
 
 ## Задачи
